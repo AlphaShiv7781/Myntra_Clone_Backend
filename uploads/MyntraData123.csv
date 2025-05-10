@@ -1,0 +1,7 @@
+﻿name,desc,wishlisted,actual_price,discounted_price,discount,category,sub_category,type,genre,brand,image_url,rating,no_of_review
+T-shirt X,This is a t shirt,FALSE,3999,499,60,Men,Top Wear,tshirt,new,Addidas,1,5,200
+Csk T-Shirt X,This is a Tshirt,,4999,3999,60,Women,Top Wear,shirt,classic,Reebok,2,3,100
+Pants,This is a pant,,1899,1299,50,Men,Trouser,pant,new,Basics,3,4,100
+Tshirt by HRx,This is a Tshirt,,1799,899,40,Men,Top Wear,tshirt,new,Hrx,4,5,150
+Shirt by max,This is a shirt,,1999,1299,50,Men,Top Wear,shirt,new,Max,5,4,158
+Cargo by Hrx,This is a trouser,,1599,1299,30,Men,Bottom Wear,pant,classic,Hrx,4,5,250

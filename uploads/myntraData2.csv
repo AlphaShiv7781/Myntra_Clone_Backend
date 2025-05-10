@@ -1,0 +1,4 @@
+﻿name,desc,wishlisted,actual_price,discounted_price,discount,category,sub_category,type,genre,brand,image_url,rating,no_of_review
+T-shirt X,This is a t shirt,FALSE,3999,499,60,Men,Top Wear,tshirt,new,Addidas,1,5,200
+Shirt X,This is a shirt,,4999,3999,60,Women,Top Wear,shirt,classic,Reebok,2,3,100
+Pants,This is a pant,,1899,1299,50,Men,Trouser,pant,new,Basics,3,4,100
